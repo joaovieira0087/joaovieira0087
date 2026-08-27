@@ -23,7 +23,6 @@ Desenvolvedor Backend | C# .NET | Java | TypeScript
 
 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovieira0087&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="49%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieira0087&layout=compact&theme=dark" width="45%" alt="Linguagens mais usadas" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaovieira0087&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieira0087&layout=compact&theme=dark)
