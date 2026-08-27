@@ -12,21 +12,6 @@ Estatísticas do GitHub
 
 <p align="center"><b>Linguagens Principais</b></p>
 
-<table>
-  <tr>
-    <td width="160"><b>C# / .NET</b></td>
-    <td width="400">████████████████████ <code>85%</code></td>
-  </tr>
-  <tr>
-    <td><b>TypeScript</b></td>
-    <td>███████████████░░░░░ <code>65%</code></td>
-  </tr>
-  <tr>
-    <td><b>Java / Spring</b></td>
-    <td>████████████░░░░░░░░ <code>50%</code></td>
-  </tr>
-  <tr>
-    <td><b>SQL Server</b></td>
-    <td>██████████████░░░░░░ <code>60%</code></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens Mais Usadas" />
+</p>
