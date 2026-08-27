@@ -13,5 +13,5 @@ Estatísticas do GitHub
 <p align="center"><b>Linguagens Principais</b></p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens Mais Usadas" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=joaovieira0087&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas" />
 </p>
