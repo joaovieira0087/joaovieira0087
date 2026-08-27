@@ -1,16 +1,3 @@
-# Olá, eu sou o João 👋
-
-Desenvolvedor Backend | C# .NET | Java | TypeScript
-
-- 🎓 Cursando Ciência da Computação
-- 💻 Focado em desenvolvimento backend, APIs REST e arquitetura de software
-- 📬 Entre em contato: [LinkedIn](https://linkedin.com/in/seu-perfil) | [E-mail](mailto:seu-email@email.com)
-
----
-
-### 🛠️ Linguagens e Tecnologias
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -23,7 +10,23 @@ Desenvolvedor Backend | C# .NET | Java | TypeScript
 
 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovieira0087&theme=dark" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovieira0087&show_icons=true&theme=dark" width="45%" alt="Estatísticas do GitHub" />
-</p>
+<p align="center"><b>Linguagens Principais</b></p>
+
+<table>
+  <tr>
+    <td width="160"><b>C# / .NET</b></td>
+    <td width="400">████████████████████ <code>85%</code></td>
+  </tr>
+  <tr>
+    <td><b>TypeScript</b></td>
+    <td>███████████████░░░░░ <code>65%</code></td>
+  </tr>
+  <tr>
+    <td><b>Java / Spring</b></td>
+    <td>████████████░░░░░░░░ <code>50%</code></td>
+  </tr>
+  <tr>
+    <td><b>SQL Server</b></td>
+    <td>██████████████░░░░░░ <code>60%</code></td>
+  </tr>
+</table>
