@@ -25,5 +25,5 @@ Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovieira0087&theme=dark" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovieira0087&layout=compact&theme=dark" width="45%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovieira0087&layout=compact&theme=dark" width="45%" alt="Linguagens mais usadas" />
 </p>
